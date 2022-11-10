@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Fascinate&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap");
+
+:root {
+  font-family: "Fascinate";
+
+  font-size: 15px;
+}
+
+.navbar-brand {
+  font-family: "Fascinate", sans-serif;
+}
+
+.positions {
+  font-family: "Kdam Thmor Pro";
+  color: rgb(50, 65, 65);
+}
+
+.location {
+  font-family: "Kdam Thmor Pro";
+  color: rgb(50, 65, 65);
+  display: flex;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.locationJobs {
+  margin-left: auto;
+}
+
+body {
+  background-color: purple;
+}
+.form-inputs {
+  position: relative;
+}
+.form-inputs .form-control {
+  height: 45px;
+}
+
+.form-inputs .form-control:focus {
+  box-shadow: none;
+  border: 1px solid #000;
+}
+
+.form-inputs i {
+  position: absolute;
+  right: 10px;
+  top: 15px;
+}
+
+.shop-bag {
+  background-color: #000;
+  color: #fff;
+  height: 50px;
+  width: 50px;
+  font-size: 25px;
+  display: flex;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+.qty {
+  font-size: 12px;
+}
+
+
+
